@@ -11,7 +11,7 @@ public class AccessingAbstractClass extends AbstractClassSample {
 	void sub() {
 		int c=a-b;
 		// TODO Auto-generated method stub
-		System.out.println("The result of a-b is"+c);
+		System.out.println("The result of a-b is going to be"+c);
 	}
 	public static void main(String[]args)
 	{
